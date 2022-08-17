@@ -7,7 +7,13 @@
 #  ---| game.py
 # ------------------------------------------------------------
 # import files
+from curses import def_prog_mode
+from distutils import ccompiler
+from distutils.errors import DistutilsFileError
+from fcntl import F_FULLFSYNC
 from genericpath import exists
+from multiprocessing.resource_tracker import getfd
+from multiprocessing.util import DEFAULT_LOGGING_FORMAT
 
 if exists("sign_up.py"):
     from sign_up import *
@@ -50,3 +56,11 @@ def main():
 # test push
 
 # lior is yelling at me
+getfddfg
+
+DEFAULT_LOGGING_FORMATdf
+def_prog_modeds
+DistutilsFileErrordsf
+ccompiler
+
+F_FULLFSYNC
