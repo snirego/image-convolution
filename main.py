@@ -51,16 +51,3 @@ def main():
     else:
         print("Invalid option!")
         main()
-
-
-# test push
-
-# lior is yelling at me
-getfddfg
-
-DEFAULT_LOGGING_FORMATdf
-def_prog_modeds
-DistutilsFileErrordsf
-ccompiler
-
-F_FULLFSYNC
